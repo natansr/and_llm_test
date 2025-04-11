@@ -1,0 +1,470 @@
+Ambiguous author: Koichi Furukawa (77 publications)
+
+Below are publications by different authors with the same name. Group the publications you believe belong to the same author. List the publication numbers grouped by class (e.g., Class 1: [1, 4, 5], Class 2: [2, 3]):
+
+Publication 1
+- Title: Experimental Study of Semantic Contents Mining on Intra-university Enterprise Contents Management System for Knowledge Sharing
+- Co-authors: Keiko Shimazu, Isao Saito
+- Venue: ASWC
+- Year: 2006
+
+Publication 2
+- Title: Query Evaluation of Deductive Database by MGTP and its Application to Data Mining
+- Co-authors: Tomonobu Ozaki, Tomoko Murakami, Ken Ueno, Keiko Shimazu
+- Venue: DDLP
+- Year: 1997
+
+Publication 3
+- Title: On the Completion of the Most Specific Hypothesis Computation in Inverse Entailment for Mutual Recursion
+- Co-authors: Not informed
+- Venue: Discovery Science
+- Year: 1998
+
+Publication 4
+- Title: A Model of Children's Vocabulary Acquisition Using Inductive Logic Programming
+- Co-authors: Ikuo Kobayashi, Tomonobu Ozaki, Mutsumi Imai
+- Venue: Discovery Science
+- Year: 1999
+
+Publication 5
+- Title: Discovering Exceptional Information from Customer Inquiry by Association Rule Miner
+- Co-authors: Keiko Shimazu, Atsuhito Momma
+- Venue: Discovery Science
+- Year: 2003
+
+Publication 6
+- Title: A Computational Model for Children's Language Acquisition Using Inductive Logic Programming
+- Co-authors: Ikuo Kobayashi, Tomonobu Ozaki, Mutsumi Imai
+- Venue: Progress in Discovery Science
+- Year: 2002
+
+Publication 7
+- Title: DAISY, an RER Model Based Interface for RDB to ILP
+- Co-authors: Keiko Shimazu, Atsuhito Momma
+- Venue: ER
+- Year: 2003
+
+Publication 8
+- Title: Summary of Basic Research Activities of the FGCS Project
+- Co-authors: Not informed
+- Venue: FGCS
+- Year: 1992
+
+Publication 9
+- Title: Concurrent Logic Programming as a Basis for Large-Scale Knowledge Information Processing - Panel Position Paper
+- Co-authors: Not informed
+- Venue: FGCS
+- Year: 1992
+
+Publication 10
+- Title: MANDELA: A LogicBased Knowledge Programming System
+- Co-authors: Akikazu Takeuchi, Susumu Kunifuji, Hideki Yasukawa, Masaru Ohki, Kazunori Ueda
+- Venue: FGCS
+- Year: 1984
+
+Publication 11
+- Title: Basic Software System
+- Co-authors: Toshio Yokoi
+- Venue: FGCS
+- Year: 1984
+
+Publication 12
+- Title: Transformation Rules for GHC Programs
+- Co-authors: Kazunori Ueda
+- Venue: FGCS
+- Year: 1988
+
+Publication 13
+- Title: Guarded Horn Clauses and Experience with Parallel Logic Programming
+- Co-authors: Jiro Tanaka, Kazunori Ueda, Tashihiko Miyazaki, Akikazu Takeuchi, Yuji Matsumoto
+- Venue: FJCC
+- Year: 1986
+
+Publication 14
+- Title: GHC - A Language for a New Age of Parallel Programming
+- Co-authors: Kazunori Ueda
+- Venue: FSTTCS
+- Year: 1988
+
+Publication 15
+- Title: The Role of Logic Programming in the Fifth Generation Computer Project
+- Co-authors: Kazuhiro Fuchi
+- Venue: ICLP
+- Year: 1986
+
+Publication 16
+- Title: Partial Evaluation of GHC Programs Based on the UR-set with Constraints
+- Co-authors: Hiroshi Fujita, Akira Okumura
+- Venue: ICLP/SLP
+- Year: 1988
+
+Publication 17
+- Title: Prolog Interpreter Based on Concurrent Programming
+- Co-authors: Katsumi Nitta, Yuji Matsumoto
+- Venue: ICLP
+- Year: 1982
+
+Publication 18
+- Title: Using Definite Clauses and Integrity Constraints as the Basis for a Theory Formation Approach to Diagnostic Reasoning
+- Co-authors: Randy Goebel, David Poole
+- Venue: ICLP
+- Year: 1986
+
+Publication 19
+- Title: Eager and Lazy Enumerations in Concurrent Prolog
+- Co-authors: Hideki Hirakawa, Takashi Chikayama
+- Venue: ICLP
+- Year: 1984
+
+Publication 20
+- Title: An Object-Oriented Programming Language Based on the Parallel Logic Programming Language KL1
+- Co-authors: Masaru Ohki, Akikazu Takeuchi
+- Venue: ICLP
+- Year: 1987
+
+Publication 21
+- Title: Parallel Logic Programming Languages
+- Co-authors: Akikazu Takeuchi
+- Venue: ICLP
+- Year: 1986
+
+Publication 22
+- Title: Respiration Reflecting Musical Expression: Analysis of Respiration during Musical Performance by Inductive Logic Programming
+- Co-authors: Soh Igarashi, Tomonobu Ozaki
+- Venue: ICMAI
+- Year: 2002
+
+Publication 23
+- Title: Specification Languages versus Programming Languages (Panel)
+- Co-authors: Not informed
+- Venue: IFIP Congress
+- Year: 1986
+
+Publication 24
+- Title: Constraint Logic Programming as a New Vehicle for Knowledge Representation
+- Co-authors: Not informed
+- Venue: IFIP Congress
+- Year: 1989
+
+Publication 25
+- Title: Partial Evaluation of Prolog Programs and its Application to Meta Programming
+- Co-authors: Akikazu Takeuchi
+- Venue: IFIP Congress
+- Year: 1986
+
+Publication 26
+- Title: A Deductive Question Answering System on Relational Data Bases
+- Co-authors: Not informed
+- Venue: IJCAI
+- Year: 1977
+
+Publication 27
+- Title: Use of Data Representation Mapping in Automatic Generation of Data Base Access Procedures
+- Co-authors: Not informed
+- Venue: IJCAI
+- Year: 1981
+
+Publication 28
+- Title: A New Design and Implementation of Progol by Bottom-Up Computation
+- Co-authors: Hiroshi Fujita, Naoki Yagi, Tomonobu Ozaki
+- Venue: Inductive Logic Programming Workshop
+- Year: 1996
+
+Publication 29
+- Title: On a Sufficient Condition for the Existence of Most Specific Hypothesis in Progol
+- Co-authors: Tomoko Murakami, Ken Ueno, Tomonobu Ozaki, Keiko Shimazu
+- Venue: ILP
+- Year: 1997
+
+Publication 30
+- Title: On the Completion of Inverse Entailment for Mutual Recursion and its Application to Self Recursion
+- Co-authors: Tomonobu Ozaki
+- Venue: ILP Work-in-progress reports
+- Year: 2000
+
+Publication 31
+- Title: Application of Pruning Techniques for Propositional Learning to Progol
+- Co-authors: Tomonobu Ozaki
+- Venue: ILP
+- Year: 2001
+
+Publication 32
+- Title: Realizing Progol by Forward Reasoning
+- Co-authors: Tomonobu Ozaki, Tomoko Murakami, Ken Ueno
+- Venue: ILP
+- Year: 1997
+
+Publication 33
+- Title: Experimental study of discovering essential information from customer inquiry
+- Co-authors: Keiko Shimazu, Atsuhito Momma
+- Venue: KDD
+- Year: 2003
+
+Publication 34
+- Title: A Framework for Interactive Problem Solving Based on Interactive Query Revision
+- Co-authors: Masaru Ohki, Akikazu Takeuchi
+- Venue: LP
+- Year: 1986
+
+Publication 35
+- Title: A Framework for Verbalizing Unconscious Knowledge Based on Inductive Logic Programming
+- Co-authors: Not informed
+- Venue: Machine Intelligence 15
+- Year: 1995
+
+Publication 36
+- Title: Object-Oriented Parser in the Logic Programming Language ESP
+- Co-authors: Hideo Miyoshi
+- Venue: Natural Language Understanding and Natural Language Understanding Workshop
+- Year: 1984
+
+Publication 37
+- Title: Curried least general generalization: A framework for higher order concept learning
+- Co-authors: Srinivas Padmanabhuni, Randy Goebel
+- Venue: PRICAI Workshops
+- Year: 1996
+
+Publication 38
+- Title: OR-Parallel Optimizing Prolog System: POPS. Its Design and Implementation in Concurrent Prolog
+- Co-authors: Hideki Hirakawa, Rikio Onai
+- Venue: RIMS Symposia on Software Science and Engineering
+- Year: 1984
+
+Publication 39
+- Title: Knowledge discovery in database by Progol-design, implementation and its application to expert system building
+- Co-authors: Keiko Shimazu
+- Venue: SAC
+- Year: 1997
+
+Publication 40
+- Title: Fifth Generation Computer Project: Towards Large-Scale Knowledge Information Processing
+- Co-authors: Not informed
+- Venue: ISLP
+- Year: 1991
+
+Publication 41
+- Title: Deriving an Efficient Production System by Partial Evaluation
+- Co-authors: Hiroshi Fujita, Toramatsu Shintani
+- Venue: NACLP
+- Year: 1989
+
+Publication 42
+- Title: A Methodology for Implementation of a Knowledge Acquisition System
+- Co-authors: Hajime Kitakami, Susumu Kunifuji, Taizo Miyachi
+- Venue: SLP
+- Year: 1984
+
+Publication 43
+- Title: A Knowledge Assimilation Method for Logic Databases
+- Co-authors: Taizo Miyachi, Susumu Kunifuji, Hajime Kitakami, Akikazu Takeuchi, Haruo Yokota
+- Venue: SLP
+- Year: 1984
+
+Publication 44
+- Title: Notes on Transformation Techniques for Generate and Test Logic Programs
+- Co-authors: Hirohisa Seki
+- Venue: SLP
+- Year: 1987
+
+Publication 45
+- Title: Role of Logic Programming in the FGCS Project
+- Co-authors: Kazuhiro Fuchi
+- Venue: TACS
+- Year: 1991
+
+Publication 46
+- Title: Fifth Generation Computer Project: Current Research Activity and Future Plans
+- Co-authors: Not informed
+- Venue: TAPSOFT, Vol.2
+- Year: 1987
+
+Publication 47
+- Title: Panel: Directions in Database Research
+- Co-authors: George Champine, Craig Fields, David Jefferson, Fritz Kruckeberg, Giora Pelled, Charles Purcell, John Rundell, Tadahiko Takahama
+- Venue: VLDB
+- Year: 1977
+
+Publication 48
+- Title: Prolog Interpreter and its Parallel Extension
+- Co-authors: Yuji Matsumoto, Katsumi Nitta
+- Venue: VLSI Engineering
+- Year: 1984
+
+Publication 49
+- Title: Logic Programming as the Integrator of the Fifth Generation Computer Systems Project
+- Co-authors: Not informed
+- Venue: Commun. ACM
+- Year: 1992
+
+Publication 50
+- Title: The Fifth Generation Project: Personal Perspectives
+- Co-authors: Ehud Y. Shapiro, David H. D. Warren, Kazuhiro Fuchi, Robert A. Kowalski, Kazunori Ueda, Kenneth M. Kahn, Takashi Chikayama, Evan Tick
+- Venue: Commun. ACM
+- Year: 1993
+
+Publication 51
+- Title: Knowledge Engineering and Fifth Generation Computers
+- Co-authors: Kazuhiro Fuchi
+- Venue: IEEE Database Eng. Bull.
+- Year: 1983
+
+Publication 52
+- Title: Motor Skill as Dynamic Constraint Satisfaction
+- Co-authors: Ken Ueno, Michael Bain
+- Venue: Electron. Trans. Artif. Intell.
+- Year: 2000
+
+Publication 53
+- Title: A Bootstrapping Model for Children's Vocabulary Acquisition using Inductive Logic Programming
+- Co-authors: Ikuo Kobayashi, Tomonobu Ozaki, Mutsumi Imai
+- Venue: Electron. Trans. Artif. Intell.
+- Year: 2001
+
+Publication 54
+- Title: Fifth Generation Computer Systems (FGCS) Project in Japan
+- Co-authors: Not informed
+- Venue: Informatica (Slovenia)
+- Year: 1993
+
+Publication 55
+- Title: The Role of Logic Programming in the Fifth Generation Computer Project
+- Co-authors: Kazuhiro Fuchi
+- Venue: New Generation Comput.
+- Year: 1987
+
+Publication 56
+- Title: A Self-Applicable Partial Evaluator and Its Use in Incremental Compilation
+- Co-authors: Hiroshi Fujita
+- Venue: New Generation Comput.
+- Year: 1988
+
+Publication 57
+- Title: Towards Cross Fertilization of Multiple Disciplines
+- Co-authors: Not informed
+- Venue: New Generation Comput.
+- Year: 2002
+
+Publication 58
+- Title: Modularization and Abstraction in Logic Programming
+- Co-authors: Reiji Nakajima, Akinori Yonezawa
+- Venue: New Generation Comput.
+- Year: 1983
+
+Publication 59
+- Title: Unfolding Rules for GHC Programs
+- Co-authors: Akira Okumura, Masaki Murakami
+- Venue: New Generation Comput.
+- Year: 1988
+
+Publication 60
+- Title: Special Issue on Algorithmic Learning Theory
+- Co-authors: Takeshi Shinohara, Yuji Takada
+- Venue: New Generation Comput.
+- Year: 1994
+
+Publication 61
+- Title: Preface to the Special Issue
+- Co-authors: Kenneth M. Kahn
+- Venue: New Generation Comput.
+- Year: 1987
+
+Publication 62
+- Title: A Knowledge Assimilation Method for Logic Databases
+- Co-authors: Taizo Miyachi, Susumu Kunifuji, Hajime Kitakami, Akikazu Takeuchi, Haruo Yokota
+- Venue: New Generation Comput.
+- Year: 1984
+
+Publication 63
+- Title: Guest Editors' Preface
+- Co-authors: Fumio Mizoguchi
+- Venue: New Generation Comput.
+- Year: 1985
+
+Publication 64
+- Title: Special Issue on Inductive Logic Programming
+- Co-authors: Stephen Muggleton, Fumio Mizoguchi
+- Venue: New Generation Comput.
+- Year: 1995
+
+Publication 65
+- Title: Bounded Buffer Communication in Concurrent Prolog
+- Co-authors: Akikazu Takeuchi
+- Venue: New Generation Comput.
+- Year: 1985
+
+Publication 66
+- Title: Philosophy of New Generation Computing -- In Remembrance of Professor Kazuhiro Fuchi
+- Co-authors: Not informed
+- Venue: New Generation Comput.
+- Year: 2006
+
+Publication 67
+- Title: Preface
+- Co-authors: Setsuo Arikawa, Shinichi Morishita, Hiroshi Motoda
+- Venue: Theor. Comput. Sci.
+- Year: 2003
+
+Publication 68
+- Title: Design of Database Interface to ILP for Building Knowledge Base
+- Co-authors: Keiko Shimazu
+- Venue: IEA/AIE
+- Year: 1996
+
+Publication 69
+- Title: Contents Sharing Framework Using CCCI Model for Intra-University Network
+- Co-authors: Keiko Shimazu, Isao Saito
+- Venue: Proceedings of the Seventh International Conference on Web-Age Information Management Workshops
+- Year: 2006
+
+Publication 70
+- Title: OR-parallel optimizing Prolog system: POPS its design and implementation in concurrent Prolog
+- Co-authors: Hideki Hirakawa, Rikio Onai
+- Venue: Proceedings of the symposia 1983 and 1984 on RIMS symposia on software science and engineering II
+- Year: 1986
+
+Publication 71
+- Title: A framework for interactive problem solving based on interactive query revision
+- Co-authors: Masaru Ohki, Akikazu Takeuchi
+- Venue: The 5th Conference on Logic programming '86
+- Year: 1987
+
+Publication 72
+- Title: Logic programming as the integrator of the fifth generation computer systems project
+- Co-authors: Not informed
+- Venue: Proceedings of the third international conference on Young computer scientists
+- Year: 1993
+
+Publication 73
+- Title: Launching the new era
+- Co-authors: Kazuhiro Fuchi, Robert Kowalski, Kazunori Ueda, Ken Kahn, Takashi Chikayama, Evan Tick
+- Venue: Communications of the ACM
+- Year: 1993
+
+Publication 74
+- Title: On the number of securities which constitute an efficient portfolio
+- Co-authors: Munenori Nakasato
+- Venue: Annals of Operations Research
+- Year: 1993
+
+Publication 75
+- Title: Logic Programming, 1989: Proceedings of the 8th Conference Tokyo, Japan, July 12-14, 1989
+- Co-authors: Hidehiko Tanaka, T. Fujisaki
+- Venue: null
+- Year: 1991
+
+Publication 76
+- Title: Special issue on real world computing project
+- Co-authors: Hidehiko Tanaka, Taisuke Sato, Jyunichi Shimada, Yoshikuni Okada
+- Venue: New Generation Computing
+- Year: 2000
+
+Publication 77
+- Title: Proceedings of the Second International Conference on Discovery Science
+- Co-authors: Setsuo Arikawa
+- Venue: Lecture Notes In Computer Science; Vol. 1721
+- Year: 1999
+
+Your answer:
+Class 1: [...]
+Class 2: [...]
+...

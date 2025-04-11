@@ -1,0 +1,25 @@
+
+Result:
+
+Class 1: [Publications likely authored by Koichi Furukawa]
+
+- Publication 3
+- Publication 4
+- Publication 5
+- Publication 6
+- Publication 7
+- Publication 8
+- Publication 9
+- Publication 15
+- Publication 22
+- Publication 24
+- Publication 25
+- Publication 30
+- Publication 31
+- Publication 33 (Assuming similar logic as above)
+
+Class 2: [Publications likely co-authored with others or part of collaborative projects]
+
+- Publication 1, 2, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 23, 26, 27, 28, 29, 32, 33 (Assuming similar logic as above), 34, 35, etc.
+
+This categorization is based on the co-authors and the relevance to Furukawa's research areas in knowledge information processing and inductive logic programming.
