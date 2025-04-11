@@ -44,4 +44,4 @@ Below are publications by different authors with the same name. Group the public
 
 ## Recommendation
 
-The LLM responses and prompt examples are available in the `/llm_analysis` directory. 
+The LLM responses and prompt examples are available in the `/analysis` directory. 

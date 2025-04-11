@@ -1,4 +1,3 @@
-LLM: lmstudio-community-gemma-3-12b-it-GGUF
 
 
 Okay, this is a challenging task due to the shared name and the breadth of topics covered across these publications. I'll do my best to group them based on co-authors, venues, years, and research themes.  I'm assuming "Koichi Furukawa" refers to the primary researcher involved in the Fifth Generation Computer Systems (FGCS) project and related logic programming work.
