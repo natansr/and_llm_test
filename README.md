@@ -9,8 +9,8 @@ llm-evaluation/
 ├── prompts/
 │   └── koichi_furukawa_prompt.txt         # Prompt used for LLMs
 ├── responses/
-│   ├── deepseek_r1_response.txt           # Output from DeepSeek-R1-Distill
-│   └── gemma_3b_response.txt              # Output from Gemma 3B
+│   ├── deepseek_r1_response.txt           # Output from DeepSeek-R1-Distill-Llama-8B
+│   └── gemma_3b_response.txt              # Output from Gemma 3-12B
 ├── ground_truth/
 │   └── koichi_furukawa.xml                # Ground truth labels in XML format        
 ├── analysis/
