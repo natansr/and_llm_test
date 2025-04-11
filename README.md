@@ -27,7 +27,7 @@ LLMs evaluated:
 
 - [Gemma 3-12B-it](https://lmstudio.ai/model/gemma-3-12b)
 
-## Summary of Observations
+## Observations
 
 - Both LLMs attempted to use co-authorship, research themes, and venues to group documents.
 - **DeepSeek-R1** provided a basic split of publications, often clustering documents broadly without clear justification.
