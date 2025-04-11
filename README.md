@@ -43,6 +43,6 @@ A detailed qualitative analysis comparing both LLMs and their strategies can be 
 
 `analysis/report.md`
 
-The file `analysis/koichi_furukawa_llm_analysis.xls` was generated to facilitate a more granular comparison. It summarizes, for each publication, the ground-truth label alongside the cluster predictions made by each LLM.
+The files `analysis/koichi_furukawa_llm_analysis.xls` and `analysis/koichi_furukawa_llm_analysis.md` facilitates a more granular comparison. It summarizes, for each publication, the ground-truth label alongside the cluster predictions made by each LLM.
 
 ---
