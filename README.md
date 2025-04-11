@@ -1,6 +1,6 @@
 # Evaluation of LLMs for Author Name Disambiguation (AND)
 
-This repository presents a qualitative analysis of the performance of two large language models (LLMs) in the Author Name Disambiguation (AND) task, using a manually curated dataset for the ambiguous author **Koichi Furukawa**.
+This repository presents a qualitative analysis of the performance of two large language models (LLMs) in the AND task, using a manually curated dataset for the ambiguous author **Koichi Furukawa**.
 
 ## Repository Structure
 
