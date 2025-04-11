@@ -41,6 +41,6 @@ Although LLMs showed some ability to identify publication patterns and themes, *
 
 A detailed qualitative analysis comparing both LLMs and their strategies can be found in:
 
-📄 `analysis/report.md`
+`analysis/report.md`
 
 ---
