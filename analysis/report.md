@@ -42,6 +42,3 @@ Below are publications by different authors with the same name. Group the public
 - LLMs show promise for the AND task but still suffer from limitations in consistency and precision across ambiguous or overlapping topics.
 - Compared to our proposed GCN+GHAC framework, LLMs lack robustness, scalability, and precision control.
 
-## Recommendation
-
-The LLM responses and prompt examples are available in the `/analysis` directory. 
