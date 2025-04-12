@@ -30,13 +30,13 @@ LLMs evaluated:
 ## Observations
 
 - Both LLMs attempted to use co-authorship, research themes, and venues to group documents.
-- **DeepSeek-R1** provided a basic split of publications, often clustering documents broadly without clear justification.
+- **DeepSeek-R1** provided a split of publications, often clustering documents broadly without clear justification.
 - **Gemma 3-12B-it** gave more thoughtful groupings and richer explanations, splitting the publications into multiple classes based on project phases and domain-specific knowledge.
 - However, neither model matched the ground truth accurately, and both failed to distinguish more subtle disambiguation cases.
 
 ## Verdict
 
-Although LLMs showed some ability to identify publication patterns and themes, **they fall short in accurately performing AND task**. Their reasoning lacks the precision required for distinguishing closely related authors, especially in cases of shared collaborators and overlapping venues.
+Although LLMs showed some ability to identify publication patterns and themes, **they fall short in accurately performing AND tasks**. Their reasoning lacks the precision required for distinguishing closely related authors, especially in shared collaborators and overlapping venues cases.
 
 ## Full Analysis
 
