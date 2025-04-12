@@ -40,10 +40,10 @@ Although LLMs showed some ability to identify publication patterns and themes, *
 
 ## Full Analysis
 
-A detailed qualitative analysis comparing both LLMs and their strategies can be found in:
+We provide a detailed qualitative analysis comparing both LLMs and their strategies in:
 
 `analysis/report.md`
 
-The files `analysis/koichi_furukawa_llm_analysis.xls` and `analysis/koichi_furukawa_llm_analysis.md` facilitates a more granular comparison. It summarizes, for each publication, the ground-truth label alongside the cluster predictions made by each LLM.
+The files `analysis/koichi_furukawa_llm_analysis.xls` and `analysis/koichi_furukawa_llm_analysis.md` facilitate a more granular comparison. The results summarize the ground truth label for each publication with the cluster predictions made by each LLM.
 
 ---
