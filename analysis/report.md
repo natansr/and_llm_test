@@ -23,8 +23,7 @@ In this one-shot setup, we gave each model a prompt listing publication metadata
 - **Basis**: Focused loosely on authorship roles and research areas.
 - **Shortcomings**:
  - Little explanation of groupings.
- - Did not account for patterns such as recurring co-authors or venue shifts.
- - Mixed unrelated publications, resulting in low alignment with ground truth.
+ - There is a low alignment with the ground truth, considering author clustering.
 
 ### Gemma-3-12B-it
 
