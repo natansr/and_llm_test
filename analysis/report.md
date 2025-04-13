@@ -1,6 +1,4 @@
-# Evaluation Report: LLM Performance on Author Name Disambiguation (AND)
-
-## Objective
+# Evaluation Report
 
 This report evaluates two large language models (LLMs) for performing the **AND** task for the ambiguous author **Koichi Furukawa**, based on 77 publications from the AMiner-12 dataset.
 
