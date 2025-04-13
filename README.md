@@ -18,6 +18,8 @@ llm-evaluation/
 │   └── koichi_furukawa.xml                # Ground truth labels in XML format        
 ├── analysis/
 │   └── report.md                          # Markdown report with detailed analysis
+│   └── koichi_furukawa_llm_analysis.md                          
+│   └── koichi_furukawa_llm_analysis.xls
 └── README.md                              # Overview and repository guide
 ```
 
