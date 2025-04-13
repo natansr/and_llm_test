@@ -1,44 +1,59 @@
-# LLM-Based Evaluation Report: AND Task 
+# Evaluation Report: LLM Performance on Author Name Disambiguation (AND)
 
-## Introduction
+## Objective
 
-This report presents the evaluation of two state-of-the-art Large Language Models (LLMs) on the Author Name Disambiguation (AND) task using the publications of the ambiguous author **Koichi Furukawa**. The goal is to assess how well LLMs can group publications from different real-world authors with the same name into clusters that reflect true authorship.
+This report evaluates two large language models (LLMs) for performing the **AND** task for the ambiguous author **Koichi Furukawa**, based on 77 publications from the AMiner-12 dataset.
 
-## Models Evaluated
+In this one-shot setup, we gave each model a prompt listing publication metadata and instructed it to group the publications by real-world author identity.
 
-- `DeepSeek-R1-Distill-Llama-8B-GGUF`
-- `Gemma-3-12b-it-GGUF`
+## Experimental Setup
 
-## Prompt Setup
+- **Task**: Group publications likely authored by the same person.
+- **Data**: 77 publications associated with the name *Koichi Furukawa*.
+- **Prompt**: Included publication number, title, co-authors (excluding the ambiguous name), venue, and year.
+- **Models Evaluated**:
+ - `DeepSeek-R1-Distill-Llama-8B-GGUF`
+ - `Gemma-3-12b-it-GGUF`
 
-The prompt included metadata for 77 publications (title, co-authors, venue, and year) and instructed the model to group publications into classes based on likely authorship.
-
-### Prompt Template Example
-
-```text
-Below are publications by different authors with the same name. Group the publications you believe belong to the same author. List the publication numbers grouped by class (e.g., Class 1: [1, 4, 5], Class 2: [2, 3]):
-...
-```
+---
 
 ## Observations
 
-### DeepSeek-R1-Distill-Llama-8B
+### DeepSeek-R1-Distill
 
-- **Approach**: Focused mostly on co-authors and general themes but lacked deeper contextual analysis.
-- **Output**: Provided two broad clusters with minimal rationale and relied heavily on vague similarity notions.
-- **Strengths**: Very fast response and readable format.
-- **Limitations**: Mixed documents from different authors and failed to leverage rich contextual relationships.
+- **Grouping**: Assigned publications into two broad clusters.
+- **Basis**: Focused loosely on authorship roles and research areas.
+- **Shortcomings**:
+ - Little explanation of groupings.
+ - Did not account for patterns such as recurring co-authors or venue shifts.
+ - Mixed unrelated publications, resulting in low alignment with ground truth.
 
-### Gemma-3-12b-it
+### Gemma-3-12B-it
 
-- **Approach**: Presented a detailed breakdown of clusters with supporting reasoning.
-- **Output**: Provided three classes aligning reasonably well with themes in the ground truth (FGCS logic programming, ILP, general topics).
-- **Strengths**: Strong contextual understanding, good use of venues, years, and recurring co-authors.
-- **Limitations**: Some misclassifications and overlapping clusters due to uncertainty in ambiguous entries.
+- **Grouping**: Organized into three clusters with well-defined reasoning.
+- **Basis**: Considered co-author recurrence, research themes (e.g., FGCS, ILP), and timeframes.
+- **Strengths**:
+ - Demonstrated awareness of research phases.
+ - Provided clear justifications for most clusters.
+- **Limitations**:
+ - Misclassified several edge cases.
+ - Some overlap between clusters when the context was unclear.
 
-## Verdict
+---
 
-- **Gemma-3-12b-it** outperforms DeepSeek in this task by a notable margin due to its structured rationale, domain alignment, and use of historical co-author data.
-- LLMs show promise for the AND task but still suffer from limitations in consistency and precision across ambiguous or overlapping topics.
-- Compared to our proposed GCN+GHAC framework, LLMs lack robustness, scalability, and precision control.
+## Key Takeaways
 
+While both models show the potential to reason over academic metadata, their predictions lacked consistency. They often struggled to resolve ambiguity where co-author sets, or research topics overlapped, and neither model consistently matched the known ground truth.
+
+LLMs treated this task as a semantic grouping problem based on text, which is insufficient for high-precision AND tasks. The absence of structural understanding (e.g., graphs, temporal patterns, co-author networks) limited their performance.
+
+---
+
+## Final Remarks
+
+LLMs offer an intuitive interface for AND and are helpful in low-resource or exploratory settings. However, their lack of structured reasoning, supervision, and scalability makes them unsuitable as standalone methods in production-scale AND systems.
+
+> For a complete breakdown of cluster predictions versus ground truth, see:
+>
+> - `analysis/koichi_furukawa_llm_analysis.md`
+> - `analysis/koichi_furukawa_llm_analysis.xls`
