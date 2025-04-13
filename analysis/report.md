@@ -10,8 +10,8 @@ In this one-shot setup, we gave each model a prompt listing publication metadata
 - **Data**: 77 publications associated with the name *Koichi Furukawa*.
 - **Prompt**: Included publication number, title, co-authors (excluding the ambiguous name), venue, and year.
 - **Models Evaluated**:
- - `DeepSeek-R1-Distill-Llama-8B-GGUF`
- - `Gemma-3-12b-it-GGUF`
+ - `DeepSeek-R1-Distill-Llama-8B`
+ - `Gemma 3-12B-it`
 
 ---
 
