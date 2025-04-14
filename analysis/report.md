@@ -17,7 +17,7 @@ In this one-shot setup, we gave each model a prompt listing publication metadata
 
 ## Observations
 
-### DeepSeek-R1-Distill
+### DeepSeek-R1-Distill-Llama-8B
 
 - **Grouping**: Assigned publications into two broad clusters.
 - **Basis**: Focused loosely on authorship roles and research areas.

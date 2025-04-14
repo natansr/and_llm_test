@@ -51,7 +51,7 @@ The metadata provided includes:
 
 
 - Both LLMs used co-authorship patterns and research themes to form clusters.
-- **DeepSeek-R1** provided a split of publications, often clustering documents broadly without clear justification.
+- **DeepSeek-R1-Distill-Llama-8B** provided a split of publications, often clustering documents broadly without clear justification.
 - **Gemma 3-12B-it** gave more thoughtful groupings and richer explanations, splitting the publications into multiple classes based on project phases and domain-specific knowledge.
 - However, neither model accurately matched the ground truth, and both failed to distinguish more subtle disambiguation cases.
 
