@@ -27,14 +27,14 @@ In this one-shot setup, we gave each model a prompt listing publication metadata
 
 ### Gemma-3-12B-it
 
-- **Grouping**: Organized into three clusters with well-defined reasoning.
-- **Basis**: Considered co-author recurrence, research themes (e.g., FGCS, ILP), and timeframes.
+- **Grouping**: Created three clusters.
+- **Basis**: Considered co-author patterns, research topics (e.g., FGCS, ILP), and publication periods.
 - **Strengths**:
- - Demonstrated awareness of research phases.
- - Provided clear justifications for most clusters.
+  - Identified different research phases over time.
+  - Gave understandable explanations for most groupings.
 - **Limitations**:
- - Misclassified several edge cases.
- - Some overlap between clusters when the context was unclear.
+  - Made mistakes in cases where information was unclear or borderline.
+  - Sometimes grouped similar papers together when there wasn’t enough context to separate them.
 
 ---
 
