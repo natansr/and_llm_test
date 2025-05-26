@@ -28,9 +28,9 @@ llm-evaluation/
 The goal is to assess whether LLMs can group publications written by the same real-world author — a core challenge in AND. Both models received the same prompt containing metadata from 77 publications, including titles, co-authors, venues, and publication years.
 
 LLMs evaluated:
-- [DeepSeek-R1-Distill-Llama-8B](https://lmstudio.ai/model/deepseek-r1-llama-8b)
+- [DeepSeek-R1-Distill-Llama-8B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B)
 
-- [Gemma 3-12B-it](https://lmstudio.ai/model/gemma-3-12b)
+- [Gemma 3-12B-it](https://huggingface.co/google/gemma-3-12b-it)
 
 
 ## Prompt Structure
