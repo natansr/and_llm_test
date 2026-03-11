@@ -2,7 +2,7 @@
 
 This repository presents a structured *one-shot* evaluation of two large language models (LLMs) applied to the AND task. The experiment uses metadata from 77 publications attributed to the ambiguous author **Koichi Furukawa**, extracted from the AMiner-12 dataset.
 
-The objective is to evaluate whether LLMs can perform the AND task — grouping publications written by the same real-world author — using only textual metadata and a carefully designed prompt.
+The objective is to evaluate whether LLMs can perform the AND task, grouping publications written by the same real-world author, using only textual metadata and a carefully designed prompt.
 
 
 ## Repository Structure
